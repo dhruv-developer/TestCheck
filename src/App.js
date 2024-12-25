@@ -15,8 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello CAT WORLD
-          
+          Bye World
         </a>
       </header>
     </div>
